@@ -28,16 +28,16 @@ Parte del Culturaton #NoviembreHD
 ¿Los términos empiezan por un consenso? ¿ Cómo valoramos la diversidad de aproximaciones y visiones acerca de un tema/concepto?
 ¿Sumamos contexto?
 
-#Actividad CULTURATON
+# Actividad CULTURATON
 ------------------------
 Para saber sobre el Culturaton CLIC AQUÍ
 
-#¿Cómo colaborar?
+# ¿Cómo colaborar?
 --------------------
 Entra al documento 
 
 
-#Para tener en cuenta 
+# Para tener en cuenta 
 ----------------------
 Si tienes comentarios sobre éste Glosario por favor usa el Issue llamado "Temas de Debate"
 
