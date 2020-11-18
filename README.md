@@ -18,23 +18,23 @@ Parte del Culturaton #NoviembreHD
 # Preguntas abiertas 
 
 
-¿Qué diferencia encontramos entre vocabularios, glosarios?
-¿Qué operación de traducción genera la búsqueda de términos para un Glosario?
-¿Por qué la colaboración como eje y práctica de un Glosario?
-¿Qué motivaciones encontramos detrás de la creación de un Glosario?
-¿Las metodologías o dinámicas pensadas para el diseño de un Glosario de éstas características, qué rol ocupa?
-¿Qué valor público habilita el diseño de un Glosario?
-¿Podemos abrir éste dispositivo para potenciar el reuso de información?
-¿Los términos empiezan por un consenso? ¿ Cómo valoramos la diversidad de aproximaciones y visiones acerca de un tema/concepto?
-¿Sumamos contexto?
+* ¿Qué diferencia encontramos entre vocabularios, glosarios?
+* ¿Qué operación de traducción genera la búsqueda de términos para un Glosario?
+* ¿Por qué la colaboración como eje y práctica de un Glosario?
+* ¿Qué motivaciones encontramos detrás de la creación de un Glosario?
+* ¿Las metodologías o dinámicas pensadas para el diseño de un Glosario de éstas características, qué rol ocupa?
+* ¿Qué valor público habilita el diseño de un Glosario?
+* ¿Podemos abrir éste dispositivo para potenciar el reuso de información?
+* ¿Los términos empiezan por un consenso? ¿ Cómo valoramos la diversidad de aproximaciones y visiones acerca de un tema/concepto?
+* ¿Sumamos contexto?
 
 # Actividad CULTURATON
 
-Para saber sobre el Culturaton CLIC AQUÍ
+Para saber sobre el Culturaton [CLIC AQUÍ](https://github.com/virbrussa/GlosarioFuturo/blob/main/Culturaton)
 
 # ¿Cómo colaborar?
 
-Entra al documento 
+Entra al [documento] 
 
 
 # Para tener en cuenta 
