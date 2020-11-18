@@ -1,10 +1,10 @@
 # GlosarioFuturo
 Dispositivo digital para pensar en un Glosario Común desde las HD, CulturalDigital y la Innovación como práctica de descubrimiento,valoración pública y colaboración. 
 Parte del Culturaton #NoviembreHD
-
+--------------------------------
 
 # ¿Por qué Glosario Futuro?
------------------------------
+
 * Glosario como habilitador, facilitador de descubrimiento, no binario-estático.
 * Necesidad de repensar, redescubrir términos, prácticas y metodologías compartidas o por compartir
 * Potenciar la relación entre campos y movimientos que permitan generar otras formas de contar y comunicarnos a través de un lenguaje emancipador, diverso
@@ -16,7 +16,7 @@ Parte del Culturaton #NoviembreHD
 
 
 # Preguntas abiertas 
----------------------
+
 
 ¿Qué diferencia encontramos entre vocabularios, glosarios?
 ¿Qué operación de traducción genera la búsqueda de términos para un Glosario?
@@ -29,16 +29,16 @@ Parte del Culturaton #NoviembreHD
 ¿Sumamos contexto?
 
 # Actividad CULTURATON
-------------------------
+
 Para saber sobre el Culturaton CLIC AQUÍ
 
 # ¿Cómo colaborar?
---------------------
+
 Entra al documento 
 
 
 # Para tener en cuenta 
-----------------------
+
 Si tienes comentarios sobre éste Glosario por favor usa el Issue llamado "Temas de Debate"
 
 
