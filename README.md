@@ -38,7 +38,7 @@ Para saber sobre el Culturaton [CLIC AQUÍ](https://github.com/virbrussa/Glosari
 
 # ¿Cómo colaborar?
 
-Entra al [documento] 
+Entra al [documento](https://github.com/virbrussa/GlosarioFuturos/blob/main/Colaborar)
 
 
 # Para tener en cuenta 
