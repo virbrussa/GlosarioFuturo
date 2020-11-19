@@ -2,6 +2,8 @@
 Dispositivo digital para pensar en un Glosario Común desde las HD, CulturalDigital y la Innovación como práctica de descubrimiento,valoración pública y colaboración. 
 Futuros porque entendemos tal como comenta Marina Garcés que las Humanidades deben ser acción y que el pensar en repensar y escribir es transformar.
 
+DOI: 10.5281/zenodo.4279964
+
 Actividad de inicio: Culturaton #NoviembreHD
 --------------------------------
 
