@@ -1,6 +1,8 @@
-# GlosarioFuturo
+# GlosarioFuturos
 Dispositivo digital para pensar en un Glosario Común desde las HD, CulturalDigital y la Innovación como práctica de descubrimiento,valoración pública y colaboración. 
-Parte del Culturaton #NoviembreHD
+Futuros porque entendemos tal como comenta Marina Garcés que las Humanidades deben ser acción y que el pensar en repensar y escribir es transformar.
+
+Actividad de inicio: Culturaton #NoviembreHD
 --------------------------------
 
 # ¿Por qué Glosario Futuro?
